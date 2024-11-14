@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kenneth-Schueman
-- 🎓 I'm currently a Sophmore at Iowa State University
+- 🎓 I'm currently a Senior at Iowa State University
 - 👀 I’m interested in machine learning/vision, networking, and the automotive industry 
 - 🌱 I’m currently learning MySQL, Android Studio Development, and Assembly (LEGv8)
 - 💞️ I’m looking to collaborate on anything and everything!
