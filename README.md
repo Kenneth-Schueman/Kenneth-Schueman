@@ -15,12 +15,6 @@ I'am always trying to learn new things!
 
 ---
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Kenneth-Schueman]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Kenneth-Schueman]&layout=compact&theme=radical)
-
----
-
 *“Code is like humor. When you have to explain it, it’s bad.”* – **Cory House**
 
 <!---
