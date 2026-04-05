@@ -1,21 +1,27 @@
-- 👋 Hi, I’m @Kenneth-Schueman
-- 🎓 I'm currently a Senior at Iowa State University
-- 👀 I’m interested in machine learning/vision, networking, and the automotive industry 
-- 🌱 I’m currently learning MySQL, Android Studio Development, and Assembly (LEGv8)
-- 💞️ I’m looking to collaborate on anything and everything!
-- 📫 Reach me at kenschue@iastate.edu 
+# Hi there, I'm [@Kenneth-Schueman]!
 
--Past classes: Construction of User Interfaces - S E 319, Digital Logic - CPR E 281, Embedded Systems 1 - CPR E 288, Intro to Data Structures in Java - COM S 228, Object-Oriented Programming in Java - COM S 227, Problem-Solving in C - S E 185
+I'am always trying to learn new things!
 
--Current classes: Software Development Practices - S E 309, Introduction to Computer Architecture - COM S 312, Introduction to Database Management  - COM S 363, Theoretical Foundations of Computer Engineering - CPR E 310
+---
 
--Skills: Java, OOP, C, C++, HTML, React.js, CSS, Springboot, PHP, JavaScript, MySQL, Ruby-on-Rails, Rust, and Python
+### Core Tech Stack
 
--Tools: MySQL, Windows, and Linux OS familiarity, IT Operations, Android Studio, and GIT 
+| Frontend | Backend | Tools & DevOps |
+| :--- | :--- | :--- |
+| React / Next.js | Node.js / Java | Docker / Kubernetes |
+| Tailwind CSS | PostgreSQL / Redis | Git / GitHub Actions |
+| TypeScript | GraphQL | AWS / Vercel |
 
--Personal Projects: I am developing a small indie game, a portfolio webpage, restoring a car, and building an electric bike from scratch. 
 
-Extra Curricular: I am running a social media page for two residence halls and leading a small student government.  
+---
+
+### GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Kenneth-Schueman]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Kenneth-Schueman]&layout=compact&theme=radical)
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”* – **Cory House**
 
 <!---
 Kenneth-Schueman/Kenneth-Schueman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
