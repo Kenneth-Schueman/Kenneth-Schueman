@@ -1,4 +1,4 @@
-# Hi there, I'm [@Kenneth-Schueman]!
+# Hi there, I'm [Kenneth-Schueman](https://github.com/Kenneth-Schueman)!
 
 I'am always trying to learn new things!
 
@@ -8,9 +8,9 @@ I'am always trying to learn new things!
 
 | Frontend | Backend | Tools & DevOps |
 | :--- | :--- | :--- |
-| React / Next.js | Node.js / Java | Docker / Kubernetes |
+| React / Angular | Node.js / Java | Docker / Kubernetes |
 | Tailwind CSS | PostgreSQL / Redis | Git / GitHub Actions |
-| TypeScript | GraphQL | AWS / Vercel |
+| TypeScript | GraphQL | Azure / GCP |
 
 
 ---
